@@ -21,7 +21,7 @@ Hi there, It's Shilpa 👋
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/shilpa kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shilpa kumari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shilpa-kumari-05629a169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shilpa kumari" height="30" width="40" /></a>
 <a href="https://kaggle.com/shilpakumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shilpakumari" height="30" width="40" /></a>
 <a href="https://instagram.com/shilpa kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shilpa kumari" height="30" width="40" /></a>
 </p>
