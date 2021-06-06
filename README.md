@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: Me/Her
 - ⚡ Fun fact: I love to learn.
--->
+
+
+
+
+
+
+[![Shilpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=shi-star)](https://github.com/shi-star/github-readme-stats)
+
