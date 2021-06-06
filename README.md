@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 
 
-[![Shilpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=shi-star)](https://github.com/shi-star/github-readme-stats)
+[![Shilpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=shi-star)](https://github.com/shi-star/github-readme-stats?theme=dark)
 
