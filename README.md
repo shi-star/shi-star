@@ -1,16 +1,16 @@
-### Hi there 👋
+### Welcome 
+Hi there, It's Shilpa 👋
+Thank you for visiting.
 
-<!--
-**shi-star/shi-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Data Science.
+- 🌱 I’m currently learning AWS.
+- 👯 I’m looking to collaborate on ML/DL.
+- 🤔 I’m looking for help with a correct path.
+- 💬 Ask me about ML/DL/SQL.
+
+- 😄 Pronouns: Me/Her
+- ⚡ Fun fact: I love to learn.
 -->
