@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 
 
-![Shilpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=shi-star&count_private=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shi-star&repo=github-readme-stats)](https://github.com/shi-star/github-readme-stats)
+
 
 
 
