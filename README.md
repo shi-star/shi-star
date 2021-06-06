@@ -42,5 +42,10 @@ Hi there, It's Shilpa 👋
 
 
 
+
+
+
+
+
 ![Shilpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=shi-star&show_icons=true&theme=merko)
 
